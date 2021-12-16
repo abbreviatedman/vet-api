@@ -1,6 +1,6 @@
 # Veterinarian API
 
-This server is intended to be used with the Networking Lab.
+This server is intended to be used with the Networking and Hooks labs.
 
 ## Implementation
 
